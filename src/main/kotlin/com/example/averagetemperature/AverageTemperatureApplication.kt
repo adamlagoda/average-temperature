@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class AverageTemperatureApplication
 
 fun main(args: Array<String>) {
-	runApplication<AverageTemperatureApplication>(*args)
+    runApplication<AverageTemperatureApplication>(*args)
 }

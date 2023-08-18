@@ -1,6 +1,5 @@
 package com.example.averagetemperature.input
 
-import java.lang.NumberFormatException
 import java.math.BigDecimal
 import java.time.LocalDate
 import java.util.regex.Pattern

@@ -12,7 +12,6 @@ import org.junit.jupiter.params.provider.MethodSource
 import java.io.FileOutputStream
 import java.math.BigDecimal
 import kotlin.io.path.Path
-import kotlin.system.measureNanoTime
 import kotlin.system.measureTimeMillis
 
 internal class TemperatureFileProcessorTest {
